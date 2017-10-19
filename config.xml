@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SavedObject xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/GitUpdater">
+   <AsciiArt>https://raw.githubusercontent.com/n00ne1mportant/PublicFilesRepo/master/CakeIsNotALie.txt</AsciiArt>
+   <ExtExeExpectedSize>0</ExtExeExpectedSize>
+   <ExtrExe>extr.exe</ExtrExe>
+   <GitHubLink>https://github.com/n00ne1mportant/WorkCalendar.git</GitHubLink>
+   <GitPath>PortableGit\git-cmd.exe</GitPath>
+   <PortableGitLink>http://adria.fesb.hr/~ikulis00/PortableGit-2.14.1-64-bit.7z.exe</PortableGitLink>
+   <PullDirectory>WorkCalendar</PullDirectory>
+   <gitExe>\git-cmd.exe</gitExe>
+   <portableGitDirName>PortableGit</portableGitDirName>
+</SavedObject>
