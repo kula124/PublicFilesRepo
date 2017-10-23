@@ -6,8 +6,11 @@
    <ExtrExe>extr.exe</ExtrExe>
    <GitHubLink>https://github.com/n00ne1mportant/WorkCalendar.git</GitHubLink>
    <GitPath>C:\Program Files\Git\git-cmd.exe</GitPath>
+   <IsX86>false</IsX86>
+   <MSBuildLink>http://adria.fesb.hr/~ikulis00/vs_buildtools__1520509292.1505288427.exe</MSBuildLink>
    <PortableGitLink>http://adria.fesb.hr/~ikulis00/PortableGit-2.14.1-64-bit.7z.exe</PortableGitLink>
    <PullDirectory>WorkCalendar</PullDirectory>
+   <Quiet>--quiet</Quiet>
    <gitExe>\git-cmd.exe</gitExe>
    <portableGitDirName>PortableGit</portableGitDirName>
 </SavedObject>
